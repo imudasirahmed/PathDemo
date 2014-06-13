@@ -1,0 +1,8 @@
+*.xcuserstate
+*.xccheckout
+.DS_Store
+.Trashes
+*.swp
+xcuserdata/
+.idea/
+UserInterfaceState.xcuserstate
